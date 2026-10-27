@@ -1,6 +1,6 @@
 # Hi, I'm Ashish Thakur 👋
 
-### Aspiring Data Analyst | Machine Learning & Data Science Enthusiast
+### Aspiring AI/ML Engineer | Data Scientist | Generative AI Enthusiast
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ashishthakur69&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA graduate interested in data-driven problem solving.
-- 📊 Focused on Data Analytics, data visualization, and SQL.
-- 🤖 Building practical projects in Machine Learning and Deep Learning.
-- 🌱 Continuously improving my Python, analytics, and AI skills.
-- 🎯 Career goal: grow from Data Analyst to Data Scientist.
+- 🎓 BCA graduate, currently pursuing an **MSc in Artificial Intelligence**.
+- 🤖 Interested in AI/ML Engineering, Data Science, Deep Learning, and Generative AI.
+- 🧠 Exploring NLP, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
+- 🛠️ Enjoy building practical AI applications and machine learning solutions with Python.
+- 🌱 Always learning, experimenting, and strengthening my skills in modern AI technologies.
 
 ## 🧰 Skills & Tools
 
@@ -24,49 +24,28 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Data Analytics & Visualization**
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
-**Machine Learning & AI**
+**Machine Learning & Deep Learning**
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Tools & Databases**
+**Generative AI & NLP**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-2D6CDF?style=for-the-badge)
+
+**Data & Development Tools**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-## 🚀 Featured Projects
-
-### 1. ANN Customer Churn Prediction
-Built a neural-network classification model to predict customer churn using preprocessing and model evaluation.
-- **Tech:** Python, TensorFlow, Keras, Scikit-learn
-- **Repository:** [ANN Classification Churn](https://github.com/Ashishthakur69/Ann-Classification-Churn)
-
-### 2. HR Analytics Dashboard
-An interactive Power BI dashboard to explore HR metrics and workforce trends.
-- **Tech:** Power BI, Data Visualization, Analytics
-- **Link:** Add your repository or dashboard link here.
-
-### 3. Vrinda Store Data Analysis
-Analyzed retail sales data and summarized business trends with spreadsheet analysis.
-- **Tech:** Excel, Pivot Tables, VLOOKUP, INDEX-MATCH
-- **Link:** Add your repository link here.
-
-### 4. Climate Cure — Weather Application
-A weather web app featuring city search, location support, forecasts, and favorite cities.
-- **Tech:** Python, Flask, MySQL, HTML, CSS, JavaScript
-- **Link:** Add your repository link here.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 GitHub Overview
 
@@ -81,10 +60,10 @@ A weather web app featuring city search, location support, forecasts, and favori
 
 ## 🤝 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-thakur69/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ashish69thakur)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashishthakur69)
-
-<!-- Add your LinkedIn profile and professional email here when ready. -->
 
 ---
 
-<p align="center"><i>Turning data into insights, one project at a time.</i></p>
+<p align="center"><i>Learning, building, and exploring the possibilities of AI.</i></p>
