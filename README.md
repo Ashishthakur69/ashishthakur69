@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi, I'm Ashish Thakur 👋
 
-<!--
-**Ashishthakur69/ashishthakur69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Machine Learning & Data Science Enthusiast
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ashishthakur69&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BCA graduate interested in data-driven problem solving.
+- 📊 Focused on Data Analytics, data visualization, and SQL.
+- 🤖 Building practical projects in Machine Learning and Deep Learning.
+- 🌱 Continuously improving my Python, analytics, and AI skills.
+- 🎯 Career goal: grow from Data Analyst to Data Scientist.
+
+## 🧰 Skills & Tools
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Data Analytics & Visualization**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Machine Learning & AI**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Tools & Databases**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 1. ANN Customer Churn Prediction
+Built a neural-network classification model to predict customer churn using preprocessing and model evaluation.
+- **Tech:** Python, TensorFlow, Keras, Scikit-learn
+- **Repository:** [ANN Classification Churn](https://github.com/Ashishthakur69/Ann-Classification-Churn)
+
+### 2. HR Analytics Dashboard
+An interactive Power BI dashboard to explore HR metrics and workforce trends.
+- **Tech:** Power BI, Data Visualization, Analytics
+- **Link:** Add your repository or dashboard link here.
+
+### 3. Vrinda Store Data Analysis
+Analyzed retail sales data and summarized business trends with spreadsheet analysis.
+- **Tech:** Excel, Pivot Tables, VLOOKUP, INDEX-MATCH
+- **Link:** Add your repository link here.
+
+### 4. Climate Cure — Weather Application
+A weather web app featuring city search, location support, forecasts, and favorite cities.
+- **Tech:** Python, Flask, MySQL, HTML, CSS, JavaScript
+- **Link:** Add your repository link here.
+
+## 📈 GitHub Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashishthakur69&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishthakur69&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ashishthakur69&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashishthakur69)
+
+<!-- Add your LinkedIn profile and professional email here when ready. -->
+
+---
+
+<p align="center"><i>Turning data into insights, one project at a time.</i></p>
